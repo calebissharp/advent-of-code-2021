@@ -1,0 +1,6 @@
+[package]
+edition = "2021"
+name = "aoc-4"
+version = "0.1.0"
+[dependencies]
+ndarray = "0.15.4"
